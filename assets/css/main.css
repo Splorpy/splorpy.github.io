@@ -2246,6 +2246,7 @@ input, select, textarea {
 			#main > section.one {
 				align-items: center;
 				height: 100vh;
+				background-color: #000000
 				
 			}
 
@@ -2681,3 +2682,6 @@ input, select, textarea {
 	  font-size:24px;
 	}
   }
+.waveGraphic {
+	background:#000000
+}
