@@ -2246,6 +2246,8 @@ input, select, textarea {
 			}
 
 			#main > section.one {
+				width: 768px
+				height: 1920px
 				display: flex;
 				justify-content: center;
 				align-items: center;
