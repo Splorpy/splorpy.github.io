@@ -1771,11 +1771,10 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
-			position:absolute;
+			float:left;
 			width: 30%;
 			margin: 0 0 2em 0;
-			border-width: 2px;
-			border-color: #252525;
+
 		}
 
 		.image.left {
@@ -2259,7 +2258,7 @@ input, select, textarea {
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #000000;
 			}
 
 			#main > section.four {
