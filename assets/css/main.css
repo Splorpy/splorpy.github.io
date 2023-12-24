@@ -1770,9 +1770,11 @@ input, select, textarea {
 		}
 
 		.image.featured {
-			display: block;
-			width: 100%;
+			display: absolute;
+			width: 30%;
 			margin: 0 0 2em 0;
+			border-width: 2px;
+			border-color: #252525;
 		}
 
 		.image.left {
