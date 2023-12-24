@@ -1770,7 +1770,8 @@ input, select, textarea {
 		}
 
 		.image.featured {
-			display: absolute;
+			display: block;
+			position:absolute;
 			width: 30%;
 			margin: 0 0 2em 0;
 			border-width: 2px;
